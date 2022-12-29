@@ -1,5 +1,5 @@
 # Tracing Hα Fibrils through Bayesian Deep Learning
-[![DOI](https://zenodo.org/badge/416091196.svg)](https://zenodo.org/badge/latestdoi/416091196)
+[![DOI](https://github.com/ccsc-tools/zenodo_icons/blob/main/icons//fibirlnet.svg)](https://zenodo.org/badge/latestdoi/416091196)
 
 ## Authors
 Haodi Jiang, Ju Jing, Jiasheng Wang, Chang Liu, Qin Li, Yan Xu, Jason T. L. Wang and Haimin Wang
