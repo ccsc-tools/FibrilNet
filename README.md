@@ -35,27 +35,13 @@ demonstrating the tool’s usability in diverse data sets.
 This notebook is Binder enabled and can be run on [mybinder.org](https://mybinder.org/) by using the link below.
 
 
-### run_SolarUnet.ipynb (Jupyter Notebook for SolarUnet)
+### run_FibrilNet.ipynb (Jupyter Notebook for FibrilNet)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ccsc-tools/FibrilNet/HEAD?labpath=run_FibrilNet.ipynb) 
 
 Please note that starting Binder might take some time to create and start the image.
 
 For the latest updates of SolarUnet refer to [https://github.com/deepsuncode/FibrilNet](https://github.com/deepsuncode/FibrilNet)
 
-
-## Installation on local machine
-Packages are based on Python 3.6
-
-|Library | Version   | Description  |
-|---|---|---|
-|astropy|4.1|Astronomy and astrophysics data processing|
-|cv2| 4.5.2.54| Image processing|
-| keras  | 2.2.4   |Artificial neural networks API   |
-|matplotlib|3.3.4| Plotting and graphs|
-|numpy| 1.19.1| Array manipulation|
-|opencv-python | 4.5.3| Image reader|
-|skimage | 0.17.2 | Image processing tool|
-| tensorflow  | 1.11.0  | Neural network libraries  |
 
 
 ## References
