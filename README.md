@@ -40,7 +40,7 @@ This notebook is Binder enabled and can be run on [mybinder.org](https://mybinde
 
 Please note that starting Binder might take some time to create and start the image.
 
-For the latest updates of SolarUnet refer to [https://github.com/deepsuncode/FibrilNet](https://github.com/deepsuncode/FibrilNet)
+For the latest updates of FibrilNet refer to [https://github.com/deepsuncode/FibrilNet](https://github.com/deepsuncode/FibrilNet)
 
 
 
