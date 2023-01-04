@@ -10,5 +10,5 @@ dependencies:
   - numpy==1.19.1
   - scikit-image==0.17.2
   - matplotlib==3.3.4
-  - opencv-python==4.5.3
+  - opencv-python==4.5.3.56
   - astropy==4.1
