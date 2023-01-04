@@ -15,11 +15,12 @@
 #   express or implied warranty.
 # =========================================================================
 
-from FibrilNet import *
 import cv2
 from mpl_toolkits.axes_grid1.axes_divider import make_axes_locatable
 import matplotlib.pyplot as plt
-
+from FibrilNet import *
+from utils import *
+download_model()
 
 test_data_path = 'data/test/'
 results_path = 'results/'
