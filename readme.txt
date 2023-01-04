@@ -38,7 +38,7 @@ https://arxiv.org/abs/2107.07886
 
 Requirements: 
 
-Python 3.6, Tensorflow-GPU 1.11.0, Keras 2.2.4, numpy 1.19.1, scikit-image 0.17.2, matplotlib 3.3.4, opencv-python 4.5.3, astropy 4.1.
+Python 3.6, Tensorflow-GPU 1.11.0, Keras 2.2.4, numpy 1.19.1, scikit-image 0.17.2, matplotlib 3.3.4, opencv-python 4.5.3.56, astropy 4.1.
 
 Usage: 
 
