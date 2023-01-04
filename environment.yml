@@ -8,7 +8,7 @@ dependencies:
   - tensorflow==1.11.0
   - keras==2.2.4
   - numpy==1.19.1
-  - skimage==0.17.2
+  - scikit-image==0.17.2
   - matplotlib==3.3.4
   - pencv-python==4.5.3
   - astropy==4.1
