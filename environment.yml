@@ -2,13 +2,13 @@ name: binder_env
 channels:
 - defaults
 dependencies:
-- python=3.6
+- python=3.9.7
 - pip
 - pip:
-  - tensorflow==1.11.0
-  - keras==2.2.4
-  - numpy==1.19.1
-  - scikit-image==0.17.2
-  - matplotlib==3.3.4
-  - opencv-python==4.5.3.56
-  - astropy==4.1
+  - tensorflow
+  - keras
+  - numpy
+  - scikit-image
+  - matplotlib
+  - opencv-python
+  - astropy
