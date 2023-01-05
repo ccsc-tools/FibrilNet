@@ -40,7 +40,7 @@ from keras.models import *
 from keras.optimizers import *
 from keras.preprocessing.image import ImageDataGenerator
 sys.stderr = stderr
-matplotlib.use('TkAgg')
+# matplotlib.use('TkAgg')
 from keras import backend as K
 
 
