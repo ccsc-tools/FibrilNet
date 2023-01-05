@@ -30,6 +30,14 @@ but are inferred through machine learning. Finally, we apply FibrilNet to full-d
 from other solar observatories and additional high-resolution Hα images collected by BBSO/ GST, 
 demonstrating the tool’s usability in diverse data sets.
 
+## Binder
+
+This notebook is Binder enabled and can be run on [mybinder.org](https://mybinder.org/) by using the link below.
+
+
+### run_FibrilNet.ipynb (Jupyter Notebook for FibrilNet)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ccsc-tools/FibrilNet/HEAD?labpath=run_FibrilNet.ipynb) 
+
 
 Please note that starting Binder might take some time to create and start the image.
 
