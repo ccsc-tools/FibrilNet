@@ -3,7 +3,7 @@ channels:
 - defaults
 dependencies:
 - pandas
-- python=3.7.16
+- python=3.7.9
 - pip
 - tensorflow=1.11.0
 - opencv
