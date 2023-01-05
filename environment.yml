@@ -2,7 +2,7 @@ name: binder_env
 channels:
 - defaults
 dependencies:
-- pandas=1.2.4
+- pandas
 - python=3.6.8
 - pip
 - tensorflow=2.4.0
