@@ -9,7 +9,7 @@ dependencies:
 - opencv
 - pip:
   - tensorflow==2.4.0
-  - keras==2.4.3
+  - keras==2.2.4
   - astropy==4.2.1
   - numpy==1.19.1
   - scipy==1.7.1
