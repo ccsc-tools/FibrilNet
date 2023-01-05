@@ -10,10 +10,10 @@ dependencies:
 - pip:
   - tensorflow==1.11.0
   - keras==2.2.4
-  - astropy==4.2.1
-  - numpy==1.19.1
-  - scipy==1.7.1
-  - scikit-learn==0.24.2
-  - scikit-image==0.18.2
-  - matplotlib==3.4.2
+  - astropy
+  - numpy
+  - scipy
+  - scikit-learn
+  - scikit-image
+  - matplotlib
   - opencv-python 
